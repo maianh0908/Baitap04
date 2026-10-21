@@ -3,7 +3,7 @@
 ## THÔNG TIN SINH VIÊN
 
 - **Họ và tên:** Mai Thị Nguyệt Ánh
-- **Mã số sinh viên:** 
+- **Mã số sinh viên:** 24810310188
 - **Lớp:** D19CNPM3
 - **Tên môn học:** Lập trình .Net
 - **Tên bài tập:** Bài 4.6 – 4.8: BindingSource & File, MDI, Async/Await
@@ -15,6 +15,7 @@
 ### Bài 4.6: Quản lý dữ liệu với BindingSource & xử lý file (Avatar / CSV)
 
 #### 1. Ảnh màn hình Giao diện chính
+<img width="1373" height="958" alt="image" src="https://github.com/user-attachments/assets/121fb1fe-9aed-4447-be6c-f33cb7f71bdb" />
 
 #### 2. Ảnh màn hình Chức năng thực thi / Kết quả
 <img width="1918" height="842" alt="image" src="https://github.com/user-attachments/assets/12b7bc54-953f-4d7b-a18b-5f718a9f94fe" />
@@ -33,9 +34,6 @@
 
 #### 1. Ảnh màn hình Giao diện chính
 <img width="1918" height="995" alt="image" src="https://github.com/user-attachments/assets/17a440ab-e6cc-4764-82a0-f991901c09bd" />
-
-<img width="1917" height="1003" alt="image" src="https://github.com/user-attachments/assets/c09e4b4d-3f0b-4322-86b2-2284fbd23f8b" />
-<img width="1487" height="998" alt="image" src="https://github.com/user-attachments/assets/1dbd3607-25de-4bcb-801a-e024d55f3271" />
 
 #### 2. Ảnh màn hình Chức năng thực thi / Kết quả
 <img width="1790" height="935" alt="image" src="https://github.com/user-attachments/assets/2fa09dd6-544f-4af3-b58a-ffde62c4c6f7" />
