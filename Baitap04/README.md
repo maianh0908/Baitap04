@@ -46,8 +46,13 @@
 ### Bài 4.8: Lập trình bất đồng bộ (Async/Await) & ProgressBar
 
 #### 1. Ảnh màn hình Giao diện chính
+<img width="1290" height="908" alt="image" src="https://github.com/user-attachments/assets/7f25615a-4fb5-4513-abc8-aea5123c6804" />
+<img width="932" height="652" alt="image" src="https://github.com/user-attachments/assets/99181969-362f-4cce-b163-c16a8d01e68c" />
 
 #### 2. Ảnh màn hình Chức năng thực thi / Kết quả
+<img width="1217" height="897" alt="image" src="https://github.com/user-attachments/assets/b97cadb7-76eb-47cd-b5f9-d0daf2a3a908" />
+<img width="942" height="663" alt="image" src="https://github.com/user-attachments/assets/5e53b25e-f922-4c0e-8d9b-7b08cfb001fc" />
 
 #### 3. Ảnh màn hình Kiểm tra lỗi (Validation)
+<img width="936" height="643" alt="image" src="https://github.com/user-attachments/assets/1b9ef30f-ba6b-40c7-83c0-0ab33cf128b8" />
 
